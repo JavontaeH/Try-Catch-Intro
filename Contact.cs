@@ -17,8 +17,6 @@ namespace AddressBook
             {
                 return ($"{FirstName} {LastName}");
             }
-
-
         }
     }
 }

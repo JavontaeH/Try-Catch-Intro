@@ -78,7 +78,7 @@ namespace AddressBook
                 }
                 catch
                 {
-                    Console.WriteLine($"Error: {email} does not exist.");
+                    Console.WriteLine($"Email: {email} does not exist in the contact list.");
                 }
             }
         }
